@@ -1,7 +1,7 @@
 <h1 align="center">Lysa</h1>
 
 <p align="center">
-  🎓 Third-year Computer Science student
+    Third-year Computer Science student
   <br>
   Université Sorbonne Paris Nord, France
 </p>
