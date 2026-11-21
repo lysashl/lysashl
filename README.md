@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>Third-year Computer Science student at Université Sorbonne Paris Nord, France.<br><br>Interested in software development, computer systems and networks, and cybersecurity.
 
 
